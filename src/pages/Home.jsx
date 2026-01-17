@@ -176,7 +176,7 @@ function Home() {
       </section>
 
       <footer className="text-center py-8 text-slate-500 text-sm">
-        © {new Date().getFullYear()} NewsHub — Built by You with ❤️
+        © {new Date().getFullYear()} NewsHub — Built by Alok
       </footer>
 
       {/* Animations */}
